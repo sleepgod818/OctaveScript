@@ -1,0 +1,6 @@
+{
+    "cmd":["/usr/bin/octave", "$file_name"],
+    // "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector":"source.m",
+    // "working_dir":"${project_path:${folder}}"
+}

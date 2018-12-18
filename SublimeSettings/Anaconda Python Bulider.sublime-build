@@ -1,0 +1,1 @@
+{ "cmd": ["/home/gsy/Sources/anaconda3/envs/tensorflow/bin/python3.5", "-u", "$file"], "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)", "selector": "source.python"}

@@ -1,0 +1,7 @@
+{
+    "python_interpreter": "/home/gsy/Sources/anaconda3/envs/tensorflow/bin/python3.5",
+    "suppress_word_completions": true,
+    "suppress_explicit_completions": true,
+    "complete_parameters": true,
+    "anaconda_linting":false
+}
