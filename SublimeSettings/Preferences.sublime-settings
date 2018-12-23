@@ -1,0 +1,26 @@
+{
+	"bold_folder_labels": true,
+	"font_size": 12,
+	"font_face": "Ubuntu Mono",
+	"font_options": "subpixel_antialias",
+	"ignored_packages":
+	[
+	"Vintage"
+	],
+	"theme": "Adaptive.sublime-theme",
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"rulers":[80],
+	"scroll_past_end": true,
+	"tab_size": 4,
+	"tab_completion": false,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"vintage_start_in_command_mode": true,
+	"word_wrap": true,
+	"save_on_focus_lost": true,
+	// "draw_white_space": "all",
+	"expand_tabs_on_save": true,
+}
